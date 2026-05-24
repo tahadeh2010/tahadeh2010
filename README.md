@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Taha 👋
 
-<!--
-**tahadeh2010/tahadeh2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Node.js.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Backend Development
+- REST APIs
+- Networking Fundamentals
+- Databases
+- System Design Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- Linux
+
+## 📌 Goal
+Building real-world backend projects and growing as a Node.js developer.
