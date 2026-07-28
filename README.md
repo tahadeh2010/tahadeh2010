@@ -1,28 +1,40 @@
 # Hi, I'm Taha 👋
 
-I'm a software developer focused on building real-world systems while exploring a new way of developing software with AI.
+Backend developer who enjoys building reliable software and understanding how things work under the hood.
 
-I don't use AI as an autopilot.
+## What I'm working with
 
-I use it as a teammate.
+- Go
+- Node.js
+- PostgreSQL
+- MongoDB
+- REST APIs
+- Clean Architecture
+- Docker 
+- Git & GitHub
 
-My goal isn't to generate code as fast as possible.
-My goal is to become better at leading projects where AI accelerates execution while I remain responsible for architecture, technical decisions, and understanding every important part of the system.
+## Things I enjoy
 
-### What I'm practicing
+- Designing backend systems
+- Writing clean and maintainable code
+- Learning software architecture and design principles
+- Building side projects to understand technologies deeply
+- Reading documentation
 
-* Breaking complex projects into manageable tasks.
-* Designing clear architectures before writing code.
-* Managing AI agents instead of blindly accepting their output.
-* Reviewing every important decision until I understand **why** it exists.
-* Using AI to increase leverage—not replace engineering thinking.
+## What I'm Currently Focused On
 
-### Current Focus
+These days, I'm mostly building backend projects with Go and Node.js, and I try to treat every project as an opportunity to learn something new.
 
-Building increasingly complex backend systems in Go while developing an AI-assisted workflow that stays transparent, maintainable, and fully understood.
+Rather than being attached to a specific technology, I prefer understanding the problem first and then choosing the right tool to solve it.
 
-If I can't explain why a piece of code exists, I don't consider the project finished.
+## A small note about AI
+
+I think we're lucky to build software in the AI era.
+
+AI is a great teammate for research, debugging, brainstorming, and speeding up development—but I believe strong fundamentals, architecture, and engineering principles are what actually make good software.
+
+So I use AI as a tool, not as a replacement for understanding.
 
 ---
 
-> **AI should multiply engineering ability, not replace it.**
+> Always learning. Always building.
