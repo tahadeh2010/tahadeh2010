@@ -24,7 +24,6 @@ Backend developer who enjoys building reliable software and understanding how th
 ## What I'm Currently Focused On
 
 These days, I'm mostly building backend projects with Go and Node.js, and I try to treat every project as an opportunity to learn something new.
-
 Rather than being attached to a specific technology, I prefer understanding the problem first and then choosing the right tool to solve it.
 ---
 
